@@ -1,0 +1,4 @@
+langgraph>=0.2
+langchain-mcp-adapters>=0.1
+langchain-google-genai
+python-dotenv>=1.0
